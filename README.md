@@ -1,7 +1,8 @@
 ### Hi i'm LuxVox ⛅
 
 **A full-stack developer;**
-_💬 Languages: _
+💬 Languages: 
 Python, Sql, Javascript, Typescript, PHP, CSS, HTML, XML, Markdown.
-_💻 Operating Systems:_
+🧑‍🎓 Learning: C.
+_💻 Operating Systems:
 - Arch Linux (I use Arch btw.)
