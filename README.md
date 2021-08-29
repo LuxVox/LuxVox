@@ -19,8 +19,7 @@
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"/>
-![Snake animation](https://github.com/LuxVox/LuxVox/blob/output/github-contribution-grid-snake.svg) 
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"/> 
 </div>
 
 
